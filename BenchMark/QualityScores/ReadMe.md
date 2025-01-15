@@ -1,0 +1,1 @@
+Readme file for quality scores compressors
