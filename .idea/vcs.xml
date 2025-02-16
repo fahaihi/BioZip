@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BioZip.wiki" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SourceCode/PQSDC" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/WIKI/BioZip.wiki" vcs="Git" />
   </component>
