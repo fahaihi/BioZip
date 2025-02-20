@@ -5,7 +5,7 @@ A versatile bioinformatics-specific compressor that offers higher compression ra
 
 ## 1 BioZip WiKi Website
 - Awesome Quality Scores Data (QSD) Compressors for FastQ format sequencing data: https://github.com/fahaihi/BioZip/wiki/Awesome-QSD-Compressors
-- Awesome publication tools for Assembled Genomic Sequence Data (AGSD): https://github.com/fahaihi/BioZip/wiki/Awesome-QSD-Compressors
+- Awesome Assembled Genomic Sequence Data (AGSD) Compressors for FastA format assembled data: https://github.com/fahaihi/BioZip/wiki/Awesome-AGSD-Compressors
 ## 2 How to use
 ### 2.1 BioZip Project Pipeline
 ## 3 Another Information
