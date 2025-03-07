@@ -11,3 +11,4 @@ A versatile bioinformatics-specific compressor that offers higher compression ra
 ## 3 Another Information
 ## 4 Change Log
 2025.01.15 Building BioZip Project
+2025.03.07 updating publications
